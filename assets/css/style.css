@@ -1,27 +1,26 @@
+/*removes auto sytle */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
-
-
+/*header sytle */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*header h1 sytle */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*header span sytle for logo */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*header div sytle */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -29,29 +28,29 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*header unordered list sytle */
 .header div ul {
     list-style-type: none;
 }
-
+/*header list sytle */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*Body sytle */
 body {
     background-color: #d9dcd6;
 }
-
+/*defaul link sytle */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*default paragraph sytle */
 p {
     font-size: 16px;
 }
-
+/*hero section sytle */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*moves left sytle */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*moves right sytle */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*content class sytle */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Consolidated css for aside sytle */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -88,12 +87,12 @@ p {
     background-color: #2589bd;
     
 }
-
+/*Benefit consolidated sytle */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Benefit consolidated image sytle */
 .benefit img {
     display: block;
     margin: 10px auto;

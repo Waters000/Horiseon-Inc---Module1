@@ -1,14 +1,15 @@
 # module1-project
-
-This file is for Module 1, project to add semantic HTML, work includes:
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+ 
+ ## Horiseon Project
+ 
+ ### Updating Horiseon website to only semantic HTML by changing all div tags into semantic tags such as **Header, Footer, Main, Article, Aside, Nav**.
+ 
+ In addtion to semantic HTML, consolidated CSS code to use similar code for repetitve style tactics.
+ 
+ All images contain alt tags with image descriptions.
+ 
+ This projecct was contributed by Chris Waters.
+ 
+ Please find live link at: https://waters000.github.io/Horiseon-Inc---Module1/
+ 
+ Reach out to Chris Waters at Floridarealty001@gmail.com.
